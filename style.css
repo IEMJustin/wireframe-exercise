@@ -1,0 +1,54 @@
+header {
+    background-color: rgb(42, 44, 46);
+    padding: 100px;
+    display: inline-block;
+    zoom:1;
+    width: 100%;
+    text-align: center;
+}
+      
+button {
+   
+    border: rgb(42, 44, 46);
+    width:150px;
+    margin:10px;   
+    font-size: 25px;
+    color:lightgray;
+    background-color:rgb(42, 44, 46);
+    line-height: 100px;
+}
+   
+div.divider {
+    width:70px;
+    height:auto;
+    display:inline-block;
+}
+
+img {
+    border-top: 100px;
+}
+
+div.bigPicture {
+    text-align: center;
+}
+
+div.subBanners {
+    text-align: center;
+}
+div.sectionBanner {
+    display: inline-block;
+    text-align: center;
+    float:inline-start;
+}
+body {
+    text-align: center;
+}
+div.footer {
+    padding: 75px;
+    width:1182px;
+    background-color:rgb(42, 44, 46);
+}
+div.call {
+    text-align: right;
+    float: right;
+}
